@@ -49,8 +49,7 @@ have seen in the past.
 git clone https://github.com/lfrincond/seismic_imaging_course.git
 cd seismic_imaging_course
 
-# start a jupyter notebook
-Run the file FWI_RTM_excersice.ipynb
+# start a jupyter notebook and run the file FWI_RTM_excersice.ipynb
 ```
 
 ## Use this exercise to understand some basic concepts behind FWI and RTM 
