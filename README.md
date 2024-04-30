@@ -1,9 +1,7 @@
 <img src="./img/1_imag.png" style="zoom:20%;" />
 
 # Seismic Imaging 24 Edition
-Course materials for the Seismic Imaging course (2024 Edition) taught by Professor Nicola Bienati at the University of Pisa.
-
-[MSc. course In Exploration and Applied Geophysics](https://www.dst.unipi.it/home-wgf.html)
+Course materials for the Seismic Imaging course (2024 Edition) taught by Professor Nicola Bienati at the University of Pisa for the [MSc. In Exploration and Applied Geophysics](https://www.dst.unipi.it/home-wgf.html)
 
 This is a computational exercise for a practical application of FWI and RTM using synthetic data.
 Developed by Felipe Rincón at University of Pisa, Italy. 
