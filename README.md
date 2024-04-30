@@ -1,7 +1,7 @@
 <img src="./img/1_imag.png" style="zoom:20%;" />
 
 # Seismic Imagning 24 Edition
-Course material for the lecture "Seismic Imagning" (2024) at the University of Pisa
+Course materials for the Seismic Imaging course (2024 Edition) taught by Professor Nicola Bienati at the University of Pisa.
 
 [MSc. course In Exploration and Applied Geophysics](https://www.dst.unipi.it/home-wgf.html)
 
