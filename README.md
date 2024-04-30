@@ -1,4 +1,4 @@
-<img src="./img/1_imag.png" style="zoom:5%;" />
+<img src="./img/1_imag.png" style="zoom:20%;" />
 
 # Seismic Imagning 24 Edition
 Course material for the lecture "Seismic Imagning" (2024) at the University of Pisa
