@@ -3,9 +3,6 @@ Course material for the lecture "Seismic Imagning" (2024) at the University of P
 
 [MSc. course In Exploration and Applied Geophysics](https://www.dst.unipi.it/home-wgf.html)
 
-[Author contact:](www.linkedin.com/in/felipe-rincond)
-
-
 This is a computational exercise for a practical application of FWI and RTM using synthetic data.
 
 This repository contains:
