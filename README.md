@@ -9,6 +9,7 @@ This repository contains:
 - A jupyter notebook with all the scripts and user functions to analyze the results. 
 - A synthetic velocity model in .npy format.
 
-Felipe Rincón
 
+
+Felipe Rincón
 Italy, 30.04.2024
