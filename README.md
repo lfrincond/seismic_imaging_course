@@ -6,7 +6,7 @@ Course materials for the Seismic Imaging course (2024 Edition) taught by Profess
 [MSc. course In Exploration and Applied Geophysics](https://www.dst.unipi.it/home-wgf.html)
 
 This is a computational exercise for a practical application of FWI and RTM using synthetic data.
-Developed by Feliper Rincón at University of Pisa, Italy. 
+Developed by Felipe Rincón at University of Pisa, Italy. 
 
 If you have any questions, please contact Felipe by email: felipe.rincon@phd.unipi.it
 
