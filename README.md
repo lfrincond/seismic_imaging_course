@@ -16,7 +16,9 @@ This repository contains:
 
 
 Felipe Rincón
+
 Italy, 30.04.2024
+
 
 ## Installation 
 ### Step 1:  Install [Devito](https://www.devitoproject.org/)
@@ -33,23 +35,16 @@ docker-compose up devito
 ```
 After running the last command above, the terminal will display a URL such as
 `https://127.0.0.1:8888/?token=XXX`. Copy-paste this URL into a browser window
-to start a [Jupyter](https://jupyter.org/) notebook session where you can go
-through the [tutorials](https://github.com/devitocodes/devito/tree/master/examples)
-provided with Devito or create your own notebooks.
+to start a [Jupyter](https://jupyter.org/) notebook.
 
 [See here](http://devitocodes.github.io/devito/download.html) for detailed installation
-instructions and other options. If you encounter a problem during installation, please
-see the
-[installation issues](https://github.com/devitocodes/devito/wiki/Installation-Issues) we
-have seen in the past. 
+instructions and other options.
 
-### Step 2:  Run the 
+### Step 2:  Download the scripts
 ```
 # get the code
 git clone https://github.com/lfrincond/seismic_imaging_course.git
 cd seismic_imaging_course
-
-# start a jupyter notebook and run the file FWI_RTM_excersice.ipynb
 ```
 
 ## Use this exercise to understand some basic concepts behind FWI and RTM 
